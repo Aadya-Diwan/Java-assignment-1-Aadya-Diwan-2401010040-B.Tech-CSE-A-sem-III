@@ -1,7 +1,7 @@
 # Java-assignment-1
 Name: Aadya Diwan  
 Roll number: 2401010040  
-Course: B.Tech CSE
+Course: B.Tech CSE  
 Section: A  
 Semester: III  
 
